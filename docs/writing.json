@@ -1,0 +1,33 @@
+data:{
+ 	article:{ 
+		title:"title"
+		imagePath:"path"
+		description:"description"
+		data1:"data1"
+		data2:"data2"
+		data3:"data3"
+		readMore:"readmore"
+		externalLink:"link"
+	}
+	article:{ 
+		title:"title"
+		imagePath:"path"
+		description:"description"
+		data1:"data1"
+		data2:"data2"
+		data3:"data3"
+		readMore:"readmore"
+		externalLink:"link"
+	}
+	article:{ 
+		title:"title"
+		imagePath:"path"
+		description:"description"
+		data1:"data1"
+		data2:"data2"
+		data3:"data3"
+		readMore:"readmore"
+		externalLink:"link"
+	}
+	
+}
