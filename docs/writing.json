@@ -1,8 +1,8 @@
 {
 	"locations":[
  		{ 
-			"title":"title",
-			"imagePath":"path",
+			"title":"Short Stories",
+			"imagePath":"images/short_stories.jpeg",
 			"description":"description",
 			"data1":"data1",
 			"data2":"data2",
@@ -11,8 +11,8 @@
 			"externalLink":"#link"
 		},
  		{ 
-			"title":"title",
-			"imagePath":"path",
+			"title":"Historical Fiction",
+			"imagePath":"images/historical_fiction.jpeg",
 			"description":"description",
 			"data1":"data1",
 			"data2":"data2",
@@ -21,8 +21,8 @@
 			"externalLink":"#link"
 		},
  		{ 
-			"title":"title",
-			"imagePath":"path",
+			"title":"High Fantasy",
+			"imagePath":"images/high_fantasy.jpeg",
 			"description":"description",
 			"data1":"data1",
 			"data2":"data2",
