@@ -3,30 +3,30 @@
  		{ 
 			"title":"Short Stories",
 			"imagePath":"images/short_stories.jpeg",
-			"description":"description",
-			"data1":"data1",
-			"data2":"data2",
-			"data3":"data3",
+			"description":"A short story is a piece of prose fiction that typically can be read in one sitting and focuses on a self-contained incident or series of linked incidents, with the intent of evoking a "single effect" or mood, however there are many exceptions to this.",
+			"data1":"Anthology",
+			"data2":"Essay",
+			"data3":"Novella",
 			"readMore":"#/short-stories",
 			"externalLink":"https://en.wikipedia.org/wiki/Short_story"
 		},
  		{ 
 			"title":"Historical Fiction",
 			"imagePath":"images/historical_fiction.jpeg",
-			"description":"description",
-			"data1":"data1",
-			"data2":"data2",
-			"data3":"data3",
+			"description":"Historical fiction is a literary genre in which the plot takes place in a setting located in the past. Although the term is commonly used as a synonym for the historical novel, it can also be applied to other types of narrative, including theatre, opera, cinema and television, as well as video games and graphic novels.",
+			"data1":"Documentary Fiction",
+			"data2":"Fictional Biographies",
+			"data3":"Historical Mysteries",
 			"readMore":"#/historical-fiction",
 			"externalLink":"https://en.wikipedia.org/wiki/Historical_fiction"
 		},
  		{ 
 			"title":"High Fantasy",
 			"imagePath":"images/high_fantasy.jpeg",
-			"description":"description",
-			"data1":"data1",
-			"data2":"data2",
-			"data3":"data3",
+			"description":"High fantasy or epic fantasy is a sub-genre of fantasy,[1] defined either by the epic nature of its setting or by the epic stature of its characters, themes, or plot.  The term "high fantasy" was coined by Lloyd Alexander in a 1971 essay, "High Fantasy and Heroic Romance".",
+			"data1":"Heroic Fantasy",
+			"data2":"Medieval Fantasy",
+			"data3":"Historical Fantasy",
 			"readMore":"#/high-fantasy",
 			"externalLink":"https://en.wikipedia.org/wiki/High_fantasy"
 		}
