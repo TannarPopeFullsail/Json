@@ -7,8 +7,8 @@
 			"data1":"data1",
 			"data2":"data2",
 			"data3":"data3",
-			"readMore":"#link",
-			"externalLink":"#link"
+			"readMore":"#/short-stories",
+			"externalLink":"https://en.wikipedia.org/wiki/Short_story"
 		},
  		{ 
 			"title":"Historical Fiction",
@@ -17,8 +17,8 @@
 			"data1":"data1",
 			"data2":"data2",
 			"data3":"data3",
-			"readMore":"#link",
-			"externalLink":"#link"
+			"readMore":"#/historical-fiction",
+			"externalLink":"https://en.wikipedia.org/wiki/Historical_fiction"
 		},
  		{ 
 			"title":"High Fantasy",
@@ -27,8 +27,8 @@
 			"data1":"data1",
 			"data2":"data2",
 			"data3":"data3",
-			"readMore":"#link",
-			"externalLink":"#link"
+			"readMore":"#/high-fantasy",
+			"externalLink":"https://en.wikipedia.org/wiki/High_fantasy"
 		}
 	]
 }

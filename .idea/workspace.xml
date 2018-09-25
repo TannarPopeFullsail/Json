@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9da84ade-57c5-4d90-9bf3-8bc623478b88" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing.json" afterDir="false" />
-    </list>
+    <list default="true" id="9da84ade-57c5-4d90-9bf3-8bc623478b88" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -35,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="writing.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="writing.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/writing.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -125,15 +122,15 @@
       <option name="presentableId" value="Default" />
       <updated>1537829686226</updated>
       <workItem from="1537829688371" duration="160000" />
-      <workItem from="1537830655469" duration="84000" />
+      <workItem from="1537830655469" duration="648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244000" />
+    <option name="totallyTimeSpent" value="808000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="154" y="23" width="1465" height="981" extended-state="0" />
+    <frame x="154" y="23" width="1465" height="981" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24982935" />
@@ -190,17 +187,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/writing.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
