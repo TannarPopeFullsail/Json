@@ -1,32 +1,32 @@
 {
 	"genres":[{ 
 			"title":"Short Stories",
-			"path":"images/short_stories.jpeg",
+			"path":"images/short_stories.jpg",
 			"description":"A short story is a piece of prose fiction that typically can be read in one sitting and focuses on a self-contained incident or series of linked incidents, with the intent of evoking a single effect or mood, however there are many exceptions to this."
 		},
  		{ 
 			"title":"Historical Fiction",
-			"path":"images/historical_fiction.jpeg",
+			"path":"images/historical_fiction.jpg",
 			"description":"Historical fiction is a literary genre in which the plot takes place in a setting located in the past. Although the term is commonly used as a synonym for the historical novel, it can also be applied to other types of narrative, including theatre, opera, cinema and television, as well as video games and graphic novels."
 		},
  		{ 
 			"title":"Sea Faring",
-			"path":"images/sea.jpeg",
+			"path":"images/sea.jpg",
 			"description":"Stories on the high seas have always captivated readers.  There something about engaging in exploration across the vast oceans that captivates our inner explorer..."
 		},
  		{ 
 			"title":"Winter Wonderland",
-			"path":"images/winter.jpeg",
+			"path":"images/winter.jpg",
 			"description":"Snow transforms a familiar landscape; it can become a magical wonderland or a bleak and forbidding country. ... Unsurprisingly, snow is also a theme in The Winter's Tale, 'as white as driven snow'. Snow and winter are often used to represent sadness, bleakness or death."
 		},
  		{ 
 			"title":"High Fantasy",
-			"path":"images/high_fantasy.jpeg",
+			"path":"images/high_fantasy.jpg",
 			"description":"High fantasy or epic fantasy is a sub-genre of fantasy, defined either by the epic nature of its setting or by the epic stature of its characters, themes, or plot.  The term high fantasy was coined by Lloyd Alexander in a 1971 essay, High Fantasy and Heroic Romance."
 		},
  		{ 
 			"title":"Waterfalls",
-			"path":"images/waterfall.jpeg",
+			"path":"images/waterfall.jpg",
 			"description":"In literature water is frequently a symbol of change and is often present at turning points. It is in most cultures I can think of, a sign of life-no surprise, but when it comes to murky water, often a sign of death."
 		}]
 }
